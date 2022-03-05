@@ -8,5 +8,5 @@
 #### Step 5 - Create a new package with a new class and open STD, now you can start to develop.
 
 ## Note:
-#### Create by: Nativ Maatuk.
+#### Created by: Nativ Maatuk.
 #### Work space: Script - Intellij IDEA | STD - Excel.
